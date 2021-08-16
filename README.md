@@ -1,2 +1,3 @@
 # anotacoes-Java
-Aprendendo anotações Java baseado no DevMedia
+
+Ver descrição na branch master.
